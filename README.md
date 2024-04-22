@@ -1,9 +1,5 @@
 <h3 align="center">A result-oriented Full Stack Developer with a strong command of the MERN (MongoDB, Express.js, React, Node.js) stack to create high-quality web applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelfernandes09&label=Profile%20views&color=0e75b6&style=flat" alt="joelfernandes09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelfernandes09" alt="joelfernandes09" /></a> </p>
-
 - 🔭 I’m currently working on **Mafia City Roleplay (GTA V RP)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms & Three.js**
